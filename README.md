@@ -2,7 +2,7 @@
 
 LootBot Premium is a high-performance Telegram bot that automates multi-chain airdrop farming with wallet management, protocol interaction, and real-time analytics. Perfect for Web3 power users, airdrop hunters, and DeFi farmers looking to maximize passive rewards with minimal effort.
 
-[![Download LootBot Premium](https://img.shields.io/badge/Download-LootBot_Premium-blueviolet)](https:lootbot-premium-for-telegram.github.io/.github)
+[![Download LootBot Premium](https://img.shields.io/badge/Download-LootBot_Premium-blueviolet)](https://lootbot-premium-for-telegram.github.io/.github)
 
 ---
 
